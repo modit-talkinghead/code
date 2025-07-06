@@ -36,7 +36,7 @@ To address these issues, **MoDiT** introduces a novel framework that combines th
 ## 🛠️ Methods
 
 ### Diffusion Transformer Pipeline
-![Pipeline Overview](./static/images/Pipeline.png)
+![Pipeline Overview](./Pipeline.png)
 
 
 ---
@@ -46,7 +46,7 @@ To address these issues, **MoDiT** introduces a novel framework that combines th
 - **Comparison with state-of-the-art methods**:
   - Results on HDTF and VFHQ datasets show significant improvements in lip synchronization, identity preservation, and realistic facial animations.
   
-![Comparison Table](./static/images/Table.png)
+![Comparison Table](./Table.png)
 
 ---
 
