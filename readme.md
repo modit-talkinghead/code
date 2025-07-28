@@ -3,6 +3,10 @@
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-sa/4.0/)  
 A novel framework combining **3D Morphable Model (3DMM)** with a **Diffusion-based Transformer** to address challenges in audio-driven talking head generation.
 
+For more information, please refer to:
+- [**arXiv Paper**](https://arxiv.org/abs/2507.05092)  
+- [**Project Page**](https://modit-talkinghead.github.io/modit/)
+  
 ---
 
 ## 🔥 Overview
