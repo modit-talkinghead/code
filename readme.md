@@ -63,6 +63,6 @@ If you use this work, please cite:
 @article{modit2025,
   author    = {Yucheng Wang and Dan Xu},
   title     = {MoDiT: Learning Highly Consistent 3D Motion Coefficients with Diffusion Transformer for Talking Head Generation},
-  journal   = {arXiv preprint arXiv:xxxx.xxxxx},
+  journal   = {arXiv preprint arXiv:2507.05092},
   year      = {2025},
 }
